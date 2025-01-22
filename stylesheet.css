@@ -59,3 +59,10 @@ header {
     color: brown;
     text-align: center;
   }
+    h3 {
+        font-family: "Limelight", serif;
+        font-weight: 400;
+        font-style: normal;
+        color: beige;
+        text-align: center;
+    }
