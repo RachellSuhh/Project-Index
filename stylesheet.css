@@ -1,6 +1,27 @@
 body{
-    display: grid;
-    grid-template-columns: 1fr/ span 5;
-    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    background-color: beige;
+    margin: 0;
+}
 
+.container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 16px; 
+}
+
+.container > div {
+    border: 1px solid brown; 
+    border-radius: 10px;
+    background-color: brown;
+    padding: 8px; 
+    text-align: center; 
+}
+
+.container img {
+    max-width: 100%; 
+    height: auto; 
 }
