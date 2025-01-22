@@ -10,9 +10,10 @@ header {
     background-color: blue;
     color: beige;
     text-align: center;
-    padding: 16px;
+    padding: 200px;
     font-family: "Limelight", serif;
-    text-size-adjust: 600px;
+    font-size: 80px;
+    
 }
 
 .container {
@@ -54,7 +55,7 @@ header {
   
   h2 {
     font-family: "Limelight", serif;
-    font-weight: 400;
+    font-weight: 600;
     font-style: normal;
     color: blue;
     text-align: center;
