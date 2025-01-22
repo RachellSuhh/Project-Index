@@ -20,7 +20,7 @@ header {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 16px; 
-    max-width: 1200px; 
+    max-width: auto; 
     margin: 0 auto; 
     padding: 16px; 
 }
