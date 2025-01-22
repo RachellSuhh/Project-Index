@@ -7,7 +7,7 @@ body{
 }
 
 header {
-    background-color: brown;
+    background-color: blue;
     color: beige;
     text-align: center;
     padding: 16px;
@@ -25,9 +25,9 @@ header {
 }
 
 .container > div {
-    border: 1px solid brown; 
+    border: 1px solid blue; 
     border-radius: 10px;
-    background-color: brown;
+    background-color: blue;
     padding: 8px; 
     text-align: center; 
 }
